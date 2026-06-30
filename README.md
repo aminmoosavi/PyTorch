@@ -1,3 +1,3 @@
 # __PyTorch__
 
-## This repository was created while I was learning PyTorch. 
+## This repository is a step-by-step training for deep learning with PyTorch 
