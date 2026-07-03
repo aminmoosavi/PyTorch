@@ -1,6 +1,6 @@
 # __PyTorch__
 
-## This repository is a step-by-step training for deep learning with PyTorch implemented using Google Colab.
+## This repository is a step-by-step training for deep learning with PyTorch implemented in Google Colab.
 
 ### PyTorch_00: PyTorch basics, and a simple regression model
 ### PyTorch_01: Fitting a quadratic model 
