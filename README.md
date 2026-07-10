@@ -8,4 +8,4 @@
 ### PyTorch_03: Binary classification
 ### PyTorch_04: Multi-class classification
 ### PyTorch_05: Convolutional neural networks for image processing
-### PyTorch_06: Transformer and language models 
+### PyTorch_06: Transformer-based GPT and language models 
