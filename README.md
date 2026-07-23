@@ -4,7 +4,7 @@
 * I assume the reader is familiar with object-oriented programming in Python. We start with PyTorch tensors and get to building and training simple models quickly. We will focus on the Transformer structure and language models in the last notebook.
 * Feel free to use the code.
 
-### PyTorch_00: PyTorch basics, and a simple regression model
+### [PyTorch_00: PyTorch basics, and a simple regression model](https://github.com/aminmoosavi/PyTorch/blob/main/PyTorch_00_Basics.ipynb)
 ### PyTorch_01: Fitting a quadratic model 
 ### PyTorch_02: Predicting a quadratic model with a two-layer network
 ### PyTorch_03: Binary classification
